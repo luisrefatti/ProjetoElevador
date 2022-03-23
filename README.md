@@ -1,0 +1,2 @@
+# ProjetoElevador
+O projeto ora apresentado representa uma simulação fictícia  de um elevador em um prédio de 5 (cinco) andares cuja  capacidade máxima de ocupantes corresponde à 10 (dez) pessoas simultaneamente. O objetivo do mesmo é exercitar a lógica de programação e praticar os tipos  de dados, controle de fluxo, laços de repetição utilizando funções a partir dos ensinamentos do grande Mestre Lucas Aragão no curso de C# proporcionado pela Samsung Ocean Brasil.
